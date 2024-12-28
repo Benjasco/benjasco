@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Benjamin!
+<a href="https://www.linkedin.com/in/benjamin-anyigor-8a311811b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Benjasco/benjasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a motivated cybersecurity analyst, with a passion for securing systems and ensuring data privacy.
 
-Here are some ideas to get you started:
+## Objective
+To contribute my expertise in threat analysis to improve system security while ensuring data privacy and protection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+
+## Tools
+
+
+## Network
+
+
+## SIEM
+
+
+## Certifications
