@@ -19,3 +19,6 @@ To contribute my expertise in threat analysis to improve system security while e
 
 
 ## Certifications
+
+## Projects
+<a href="https://github.com/Benjasco/Advent-of-Cyber-2024/tree/main">TryHackMe Advent of Cyber 2024</a>
