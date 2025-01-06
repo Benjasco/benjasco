@@ -16,8 +16,8 @@ To contribute my expertise in threat analysis to improve system security while e
   -
 
 ### Language Skills
-  - English
-  - French
+  - English (Fluent)
+  - French (Basic)
 ## Tools
 
 
