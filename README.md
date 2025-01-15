@@ -28,6 +28,11 @@ To contribute my expertise in threat analysis to improve system security while e
 
 
 ## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+
+
 
 ## Projects
 - <a href="https://github.com/Benjasco/Advent-of-Cyber-2024/tree/main">TryHackMe Advent of Cyber 2024</a>
