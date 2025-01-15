@@ -6,6 +6,24 @@ I am a motivated cybersecurity professional with strong problem-solving, adaptab
 ## Objective
 To contribute my expertise in threat analysis to improve system security while ensuring data privacy and protection.
 
+## Professional Experience
+### Freelance Web Administrator & Pro Blogger  
+*Self-Employed | August 2016 - Date*  
+
+- **Website Setup & Infrastructure**:  
+  - Managed domain, DNS configuration, and hosting setup for WordPress websites.  
+  - Ensured secure website deployment and performance optimization.
+
+- **Database Management & Recovery**:  
+  - Conducted database backups and migrations using SSH, rsync, mysqldump, and mysql restore.  
+  - Implemented disaster recovery strategies for site continuity.
+
+- **Web Application Security**:  
+  - Installed and configured security measures to protect WordPress sites from common vulnerabilities.  
+
+- **Troubleshooting & Issue Resolution**:  
+  - Diagnosed and resolved website and database errors, minimizing downtime.
+
 ## Skills
 ### Soft Skills
   - Communication
