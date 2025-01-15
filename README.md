@@ -31,7 +31,9 @@ To contribute my expertise in threat analysis to improve system security while e
   - Problem Solving
   - Adaptability
  ### Technical Skills
-  -
+  - Python
+  - SQL
+  - Linux
 
 ### Language Skills
   - English (Fluent)
