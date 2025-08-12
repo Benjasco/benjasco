@@ -27,24 +27,34 @@ To contribute my expertise in threat analysis to improve system security while e
 ## Skills
 ### Soft Skills
   - Communication
-  - Open Mindet
+  - Open-Mindedness
   - Problem Solving
   - Adaptability
  ### Technical Skills
   - Threat Identification & Analysis
   - Network Security & Monitoring
-  - Python
-  - SQL
-  - Linux
-  - 
+  - Virtualization & Lab Design
+  - Firewall Policy Design & Implementation
+  - Python Scripting
+  - SQL Queries
+  - Python Scripting
+  - Version Control (Git)
 
 ### Language Skills
   - English (Fluent)
   - French (Basic)
 ## Tools
-
+  - pfSense (Firewall & Router)
+  - Proxmox VE (Virtualization)
+  - 
 
 ## Network
+  - VLAN configuration and segmentation (pfSense + Proxmox)
+  - Firewall rule creation and access control policies
+  - DHCP configuration and management
+  - Network troubleshooting
+  - Secure network design for isolated lab environments
+  - WAN/LAN interface setup in virtualized environments
 
 
 ## SIEM
@@ -58,5 +68,7 @@ To contribute my expertise in threat analysis to improve system security while e
 
 
 ## Projects
+- <a href="https://github.com/Benjasco/pfsense-proxmox-cybersecurity-lab/blob/main/README.md">Building Isolated Networks for a Cybersecurity Lab with pfSense and Proxmox</a>
 - <a href="https://github.com/Benjasco/Advent-of-Cyber-2024/tree/main">TryHackMe Advent of Cyber 2024</a>
 - <a href="https://github.com/Benjasco/Apply-Filters-to-SL-Queries/blob/main/README.md">SQL Queries to Security Analysis</a>
+
