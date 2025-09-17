@@ -1,11 +1,10 @@
 # Hi, I'm Benjamin!
 <a href="https://www.linkedin.com/in/benjamin-anyigor-8a311811b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a motivated and Security+ certified cybersecurity professional with strong problem-solving, adaptability, and communication skills. Open to learning new tools and solving changing security problems.
+Security+ certified cybersecurity professional with hands-on experience in Zero Trust, network segmentation, and secure lab design. Skilled in problem-solving, adaptability, and applying enterprise-grade security principles to real-world and homelab environments.
 
 ## Objective
-To contribute my expertise in threat analysis to improve system security while ensuring data privacy and protection.
-
+To contribute my expertise in cybersecurity and network security to improve system resilience while ensuring data privacy and protection.
 ## Professional Experience
 ### Freelance Web Administrator & Pro Blogger  
 *Self-Employed | August 2016 - Date*  
@@ -24,40 +23,44 @@ To contribute my expertise in threat analysis to improve system security while e
 - **Troubleshooting & Issue Resolution**:  
   - Diagnosed and resolved website and database errors, minimizing downtime.
 
-## Skills
-### Soft Skills
-  - Communication
-  - Open-Mindedness
-  - Problem Solving
-  - Adaptability
- ### Technical Skills
-  - Threat Identification & Analysis
-  - Network Security & Monitoring
-  - Virtualization & Lab Design
-  - Firewall Policy Design & Implementation
-  - Python Scripting
-  - SQL Queries
-  - Python Scripting
-  - Version Control (Git)
+## 🔧 Skills  
+
+### Cybersecurity & Networking  
+- Threat Identification & Analysis  
+- Network Security & Monitoring  
+- Network Troubleshooting & Diagnostics  
+- Zero Trust Architecture (ZTA)  
+- VLAN Design & Segmentation (802.1Q)  
+- Access Control Lists (ACLs) & Firewall Rule Design  
+- Role-Based Access Control (RBAC by VLAN)  
+- Secure Network Design & Isolation (IoT Quarantine, Guest Networks)  
+- Inter-VLAN Routing & Switch Port VLAN Mapping  
+- SSID-to-VLAN Mapping on Access Points  
+- DHCP Configuration & Management  
+- Management Plane Isolation (router, AP, switch, NAS)  
+
+### System & Infrastructure Management  
+- Virtualization & Lab Design (Proxmox VE)  
+- pfSense Firewall & Routing  
+- Synology NAS Administration (SMB, Plex, Web UI)  
+- Database Management & Recovery (MySQL, backups, migrations)  
+
+### Programming & Automation  
+- Python Scripting  
+- SQL Queries for Security Analysis  
+- Bash/Linux Command-line Operations  
+- Git & Version Control  
+
+### Soft Skills  
+- Problem Solving  
+- Adaptability  
+- Communication  
+- Open-Mindedness  
+
 
 ### Language Skills
   - English (Fluent)
   - French (Basic)
-## Tools
-  - pfSense (Firewall & Router)
-  - Proxmox VE (Virtualization)
-  - 
-
-## Network
-  - VLAN configuration and segmentation (pfSense + Proxmox)
-  - Firewall rule creation and access control policies
-  - DHCP configuration and management
-  - Network troubleshooting
-  - Secure network design for isolated lab environments
-  - WAN/LAN interface setup in virtualized environments
-
-
-## SIEM
 
 
 ## Certifications
@@ -67,8 +70,13 @@ To contribute my expertise in threat analysis to improve system security while e
 
 
 
-## Projects
-- <a href="https://github.com/Benjasco/pfsense-proxmox-cybersecurity-lab/blob/main/README.md">Building Isolated Networks for a Cybersecurity Lab with pfSense and Proxmox</a>
-- <a href="https://github.com/Benjasco/Advent-of-Cyber-2024/tree/main">TryHackMe Advent of Cyber 2024</a>
-- <a href="https://github.com/Benjasco/Apply-Filters-to-SL-Queries/blob/main/README.md">SQL Queries to Security Analysis</a>
+## Projects  
 
+- [Zero Trust Home Network & Homelab](https://github.com/Benjasco/zero-trust-home-network/blob/main/README.md)  
+  *Designed and enforced VLAN segmentation, ACLs, and Zero Trust policies to secure a production-grade home network.*  
+
+- [Building Isolated Networks for a Cybersecurity Lab with pfSense and Proxmox](https://github.com/Benjasco/pfsense-proxmox-cybersecurity-lab/blob/main/README.md)  
+  *Configured Proxmox virtualization with pfSense firewall to create secure, isolated lab environments for cybersecurity testing.*  
+
+- [TryHackMe Advent of Cyber 2024](https://github.com/Benjasco/Advent-of-Cyber-2024/tree/main)  
+  *Completed hands-on cybersecurity challenges covering threat detection, incident response, and offensive security fundamentals.*  
