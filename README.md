@@ -1,7 +1,7 @@
 # Hi, I'm Benjamin!
 <a href="https://www.linkedin.com/in/benjamin-anyigor-8a311811b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Security+ certified cybersecurity professional with hands-on experience in Zero Trust, network segmentation, and secure lab design. Skilled in problem-solving, adaptability, and applying enterprise-grade security principles to real-world and homelab environments.
+Security+ certified cybersecurity enthusiast with hands-on experience in Zero Trust, network segmentation, and secure lab design. Skilled in problem-solving, adaptability, and applying enterprise-grade security principles to real-world and homelab environments.
 
 ## Objective
 To contribute my expertise in cybersecurity and network security to improve system resilience while ensuring data privacy and protection.
