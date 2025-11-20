@@ -85,8 +85,11 @@ To contribute my expertise in cybersecurity and network security to improve syst
 
 ## Projects  
 
+- [Greenholt Phish Challenge](https://github.com/Benjasco/greenholt-phish-analysis/blob/main/README.md)  
+  *Phishing investigation on a malicious email sample*  
+
 - [Zero Trust Home Network & Homelab](https://github.com/Benjasco/zero-trust-home-network/blob/main/README.md)  
-  *Designed and enforced VLAN segmentation, ACLs, and Zero Trust policies to secure a production-grade home network.*  
+  *Designed and enforced VLAN segmentation, ACLs, and Zero Trust policies to secure a production-grade home network.*
 
 - [Building Isolated Networks for a Cybersecurity Lab with pfSense and Proxmox](https://github.com/Benjasco/pfsense-proxmox-cybersecurity-lab/blob/main/README.md)  
   *Configured Proxmox virtualization with pfSense firewall to create secure, isolated lab environments for cybersecurity testing.*  
