@@ -25,19 +25,32 @@ To contribute my expertise in cybersecurity and network security to improve syst
 
 ## 🔧 Skills  
 
-### Cybersecurity & Networking  
+### Cybersecurity & SOC
+
+- Email & Phishing Analysis  
 - Threat Identification & Analysis  
-- Network Security & Monitoring  
+- Threat Intelligence & Investigation  
+- Malware Triage (Static Analysis)  
+
+---
+
+### Networking
+
 - Network Troubleshooting & Diagnostics  
-- Zero Trust Architecture (ZTA)  
+- Inter-VLAN Routing  
 - VLAN Design & Segmentation (802.1Q)  
+- Switch Port VLAN Mapping  
+- DHCP Configuration & Management  
+
+---
+
+### Network Security & Access Control
+
 - Access Control Lists (ACLs) & Firewall Rule Design  
 - Role-Based Access Control (RBAC by VLAN)  
-- Secure Network Design & Isolation (IoT Quarantine, Guest Networks)  
-- Inter-VLAN Routing & Switch Port VLAN Mapping  
+- Secure Network Design & Isolation (IoT, Guest, Servers)  
 - SSID-to-VLAN Mapping on Access Points  
-- DHCP Configuration & Management  
-- Management Plane Isolation (router, AP, switch, NAS)  
+- Management Plane Isolation (Router, AP, Switch, NAS)  
 
 ### System & Infrastructure Management  
 - Virtualization & Lab Design (Proxmox VE)  
