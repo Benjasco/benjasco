@@ -1,27 +1,24 @@
 # Hi, I'm Benjamin!
 <a href="https://www.linkedin.com/in/benjamin-anyigor-8a311811b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EE0000?style=for-the-badge&logo=Comptia&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme&logoColor=white)
 
-Security+ certified cybersecurity enthusiast with hands-on experience in Zero Trust, network segmentation, and secure lab design. Skilled in problem-solving, adaptability, and applying enterprise-grade security principles to real-world and homelab environments.
 
-## Objective
-To contribute my expertise in cybersecurity and network security to improve system resilience while ensuring data privacy and protection.
+Security+ certified cybersecurity analyst with hands-on experience in threat detection, phishing analysis, Windows forensics, and secure network architecture.
+
+
 ## Professional Experience
 ### Freelance Web Administrator & Pro Blogger  
 *Self-Employed | August 2016 - Date*  
 
-- **Website Setup & Infrastructure**:  
-  - Managed domain, DNS configuration, and hosting setup for WordPress websites.  
-  - Ensured secure website deployment and performance optimization.
+- Managed DNS, hosting, server configuration, and WordPress deployments.
 
-- **Database Management & Recovery**:  
-  - Conducted database backups and migrations using SSH, rsync, mysqldump, and mysql restore.  
-  - Implemented disaster recovery strategies for site continuity.
+- Performed database backups, migrations, and disaster recovery.
 
-- **Web Application Security**:  
-  - Installed and configured security measures to protect WordPress sites from common vulnerabilities.  
+- Hardened websites using security plugins, access control, and monitoring.
 
-- **Troubleshooting & Issue Resolution**:  
-  - Diagnosed and resolved website and database errors, minimizing downtime.
+- Troubleshot server, network, and database issues to minimize downtime.
 
 ## 🔧 Skills  
 
@@ -30,27 +27,18 @@ To contribute my expertise in cybersecurity and network security to improve syst
 - Email & Phishing Analysis  
 - Threat Identification & Analysis  
 - Threat Intelligence & Investigation  
-- Malware Triage (Static Analysis)  
+- Malware Triage (Static Analysis)
+- Windows Forensics
 
 ---
 
-### Networking
+### Networking & Network Security
 
 - Network Troubleshooting & Diagnostics  
-- Inter-VLAN Routing  
-- VLAN Design & Segmentation (802.1Q)  
-- Switch Port VLAN Mapping  
-- DHCP Configuration & Management  
-
----
-
-### Network Security & Access Control
-
-- Access Control Lists (ACLs) & Firewall Rule Design  
-- Role-Based Access Control (RBAC by VLAN)  
-- Secure Network Design & Isolation (IoT, Guest, Servers)  
-- SSID-to-VLAN Mapping on Access Points  
-- Management Plane Isolation (Router, AP, Switch, NAS)  
+- VLAN Design & Segmentation (802.1Q)
+- Access Control Lists (ACLs)
+- Secure Network Design & Isolation (IoT, Guest, Servers)
+- Management Plane Isolation (Router, AP, Switch, NAS)
 
 ### System & Infrastructure Management  
 - Virtualization & Lab Design (Proxmox VE)  
@@ -64,17 +52,6 @@ To contribute my expertise in cybersecurity and network security to improve syst
 - Bash/Linux Command-line Operations  
 - Git & Version Control  
 
-### Soft Skills  
-- Problem Solving  
-- Adaptability  
-- Communication  
-- Open-Mindedness  
-
-
-### Language Skills
-  - English (Fluent)
-  - French (Basic)
-
 
 ## Certifications
 <div><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -85,6 +62,8 @@ To contribute my expertise in cybersecurity and network security to improve syst
 
 ## Projects  
 
+- [Sysmon Event Analysis](https://github.com/Benjasco/sysmon-phishing-investigation/tree/main)  
+  *Sysmon Event Analysis of a Phishing Attachment Execution*  
 - [Greenholt Phish Challenge](https://github.com/Benjasco/greenholt-phish-analysis/blob/main/README.md)  
   *Phishing investigation on a malicious email sample*  
 
