@@ -9,7 +9,7 @@ Security+ certified cybersecurity analyst with hands-on experience in threat det
 
 
 ## Professional Experience
-### Freelance Web Administrator & Pro Blogger  
+### Technical Web Administrator
 *Self-Employed | August 2016 - Date*  
 
 - Managed DNS, hosting, server configuration, and WordPress deployments.
@@ -23,12 +23,17 @@ Security+ certified cybersecurity analyst with hands-on experience in threat det
 ## 🔧 Skills  
 
 ### Cybersecurity & SOC
-
+- Splunk (SPL) Log Analysis
 - Email & Phishing Analysis  
 - Threat Identification & Analysis  
 - Threat Intelligence & Investigation  
 - Malware Triage (Static Analysis)
 - Windows Forensics
+- Linux Authentication Log Investigation
+- Brute-Force Attack Detection
+- Privilege Escalation Identification (sudo)
+- Persistence Detection
+- MITRE ATT&CK Technique Mapping
 
 ---
 
@@ -61,7 +66,8 @@ Security+ certified cybersecurity analyst with hands-on experience in threat det
 
 
 ## Projects  
-
+- [Splunk SSH Brute-Force Investigation](https://github.com/Benjasco/splunk-ssh-bruteforce-investigation/tree/main)  
+  *End-to-end Splunk investigation of a Linux SSH brute-force compromise, including failed login correlation, successful intrusion detection, privilege escalation verification, and persistence discovery.*
 - [Sysmon Event Analysis](https://github.com/Benjasco/sysmon-phishing-investigation/tree/main)  
   *Sysmon Event Analysis of a Phishing Attachment Execution*  
 - [Greenholt Phish Challenge](https://github.com/Benjasco/greenholt-phish-analysis/blob/main/README.md)  
