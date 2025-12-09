@@ -24,6 +24,8 @@ Security+ certified cybersecurity analyst with hands-on experience in threat det
 
 ### Cybersecurity & SOC
 - Splunk (SPL) Log Analysis
+- Wireshare Network Analysis
+- Snort Fundamentals
 - Email & Phishing Analysis  
 - Threat Identification & Analysis  
 - Threat Intelligence & Investigation  
